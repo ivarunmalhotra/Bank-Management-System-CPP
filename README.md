@@ -23,6 +23,6 @@ Bank Management System is the project to perform basic bank opening operations a
     - All files in this repository are required to run Main.cpp file
     - Main.cpp is the main file which will run this code
 ***  
-#### I hope you like our effort.
+#### I hope you like my effort.
 #### THANK YOU
 ***
